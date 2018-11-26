@@ -1,0 +1,28 @@
+{
+  "id": "fe9c5a54-3a67-4544-ab82-971e71b70f33",
+  "name": "Calculator",
+  "publisher": "James Pearson",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "target": "Internal",
+  "showMyCode": true
+}

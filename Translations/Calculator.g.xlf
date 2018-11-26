@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Calculator">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1645865807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1645865807 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556266033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Implementation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Implementation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556266033 - Field 1618324396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Implementation - Field Interface Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556266033 - Field 1622666433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Implementation Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Implementation - Field Implementation Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556266033 - Field 893385458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codeunit ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Implementation - Field Codeunit ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556266033 - Field 3733767603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Page ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Implementation - Field Setup Page ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556266033 - NamedType 4262487643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only temporary records should be inserted into %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Implementation - NamedType MustBeTempErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1152112087 - NamedType 3565970022" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No interface codeunit was set by codeunit %1 (Interface %2, Implementation %3)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Interface Mgt. - NamedType NoInterfaceCodeunitErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1152112087 - NamedType 1909314917" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find an installed implementation of interface %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Interface Mgt. - NamedType NoInterfaceImplementationErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2375673000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Implementations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Implementations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2375673000 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Implementations - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3037151240 - Control 2429109395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Angle (rad)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Calculator - Control Angle - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
