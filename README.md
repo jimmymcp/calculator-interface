@@ -1,0 +1,3 @@
+This is a sample app that makes use of the Interface Mgt. concept I describe here [https://jpearson.blog/2018/11/19/part-2-integration-between-extensions-in-dynamics-365-business-central/](https://jpearson.blog/2018/11/19/part-2-integration-between-extensions-in-dynamics-365-business-central/).
+
+The cos, sin and tan calculations register themselves as implementations of the 'TRIG' interface. The Calculator page provides a lookup to select the implementation to use, enter the angle to calculate and the Calculate action. The Interface Mgt. codeunit binds the appropriate subsriber and raises an event to run the calculation and retrieve the result.
